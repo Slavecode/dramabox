@@ -50,7 +50,7 @@ export function Footer() {
 
           {/* Legal */}
           <div>
-            <h3 className="font-semibold text-foreground mb-4">Lainnya</h3>
+            {/* <h3 className="font-semibold text-foreground mb-4">Lainnya</h3>
             <ul className="space-y-2 text-sm">
               <li>
                 <a 
@@ -62,7 +62,7 @@ export function Footer() {
                   Beli Source Code API
                   <ExternalLink className="w-3 h-3" />
                 </a>
-              </li>
+              </li> */}
               {/* <li>
                 <span className="text-muted-foreground">Kontak</span>
               </li>
